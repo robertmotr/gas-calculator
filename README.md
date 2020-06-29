@@ -14,3 +14,7 @@ Libraries used Python-side:
 - requests
 - py4j
 - Google maps distance matrix/queries API
+
+TODO:
+- unbind gateways after initializing, they keep throwing errors
+- fix file path NPE error
