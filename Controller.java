@@ -26,8 +26,8 @@ public class Controller implements Initializable {
     @FXML
     private Label gasBillFinal;
 
-    private List<String> origin_suggestions; // for queries
-    private List<String> destination_suggestions;
+    private List<String> origin_suggestions = new LinkedList<>(); // for queries
+    private List<String> destination_suggestions = new LinkedList<>();
 
     private String origin_address; // for calculations
     private String destination_address;
