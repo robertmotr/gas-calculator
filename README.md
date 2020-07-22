@@ -1,5 +1,5 @@
 # gas-calculator
-A small project I started for fun. I challenged myself to using multiple libraries in Java as well as the Google Maps distance matrix/query API to expand my knowledge. This project is more of a technical demo than a utilitarian one.
+A small project I started. I challenged myself to using multiple libraries in Java as well as the Google Maps distance matrix/query API to expand my knowledge. This project is more of a technical demo than a utilitarian one (it's quite useless).
 
 Libraries used Java-side:
 
